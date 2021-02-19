@@ -1,0 +1,16 @@
+{
+  "name": "find_sls",
+  "version": "1.0.0",
+  "description": "Find an SLS if an adresse <3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zefut",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^7.1.0",
+    "puppeteer-core": "^7.1.0"
+  }
+}
